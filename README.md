@@ -9,24 +9,32 @@ by [Anna Beteta](https://github.com/Annbeele), June 2021
 
 ## Content
 - [Project Description](#project-description)
-- [Project Goals](#project-goals)
 - [Data Workflow](#data-workflow)
 - [Resources](#resources)
 
 ## Project Description
-Have you ever wondered how likely a meteorite is to blow up the earth?  
-What are the chances of you spotting a meteor in your country?  
-Which country do meteorites prefer to visit when they travel to earth?  
-We will deepen into the NASA's Meteorite Landings dataset in order to answer this questions and decide wheter to panic or not 🤪
 
-## Project Goals
-We'd like to get some insights on the Meteorite Landings dataset so we can answer the following questions:
-- What is the probability that a meteorite hits the earth?
-- Which is the avereage frequency of meteorite landings per continent? Which country is in the top?
-- Wich meteorite type is the more frequent to land?
+Have you ever wondered **how many meteorites have fallen to Earth** and which one was the **heaviest**?
 
-## Data Workflow
+Which countries have suffered **more impacts**?
+
+What is the **frequency of meteorite fall over time**?
+
+*-We will deepen into the NASA's Meteorite Landings dataset and try to answer these questions (and some more) in a single visualization using Tableau-*
+
+
+## Workflow
 In this project we focus on Data Analysis, Data Wrangling and Visualization skills.
+
+### STEP 1. Data Wrangling
+Data cleaning and data engineering using PYTHON
+- See Jupyter notebook:
+
+### STEP 2. Tableau - Interactive Vizualization
+- See Tableau Vizz:
+
+### STEP 3. - Presentation
+- See Slides:
 
 ## Resources
 Nasa Meteorite Landings Dataset: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
