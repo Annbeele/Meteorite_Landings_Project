@@ -9,7 +9,7 @@ by [Anna Beteta](https://github.com/Annbeele), June 2021
 
 ## Content
 - [Project Description](#project-description)
-- [Data Workflow](#data-workflow)
+- [Workflow](#workflow)
 - [Resources](#resources)
 
 ## Project Description
@@ -27,14 +27,17 @@ What is the **frequency of meteorite fall over time**?
 In this project we focus on Data Analysis, Data Wrangling and Visualization skills.
 
 ### STEP 1. Data Wrangling
-Data cleaning and data engineering using PYTHON
-- See Jupyter notebook:
+Data cleaning and data engineering using PYTHON  
+- [Click to see the Jupyter Notebook](https://github.com/Annbeele/Meteorite_Landings_Project/blob/main/Docs/Meteorite_Landings.ipynb)
 
-### STEP 2. Tableau - Interactive Vizualization
-- See Tableau Vizz:
+### STEP 2. Tableau - Interactive Visualization
+- [Click to see the Tableau Visualization](https://public.tableau.com/app/profile/anna.beteta/viz/Meteorite_Landings_Study/Dashboard1)
 
-### STEP 3. - Presentation
-- See Slides:
+### STEP 3. - Conclusions
+- Total mass and number of meteorites per countries are not correlated.
+- The heaviest meteorite ever fallen to the Earth was 60.000kg and impacted in Namibia (Africa)
+- Antarctica is the place where more meteorites were found
+- Most meteorites fell/were found during the 21st century
 
 ## Resources
 Nasa Meteorite Landings Dataset: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
