@@ -56,7 +56,7 @@ Data cleaning and data engineering using PYTHON
 - Most meteorites fell/were found during the 21st century. That makes sense, as it is probably due to technological innovation and the growing concern to keep track of these records
 <br/><br/>
 
-## Other Documents
+## OTHER DOCUMENTS
 
 #### Presentation
 - [Presentation](https://github.com/Annbeele/Meteorite_Landings_Project/blob/main/Docs/Meteorites_Landing_Presentation.key)
@@ -64,7 +64,6 @@ Data cleaning and data engineering using PYTHON
 #### Datasets
 - [Original Dataset](https://github.com/Annbeele/Meteorite_Landings_Project/blob/main/Docs/Meteorite_Landings.csv)
 - [Cleaned Dataset](https://github.com/Annbeele/Meteorite_Landings_Project/blob/main/Docs/Meteorites_Landing_Presentation.key)
-
 <br/><br/>
 
 ## RESOURCES
